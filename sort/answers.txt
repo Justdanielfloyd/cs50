@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Lowest time complexity on a sorted list
+
+sort2 uses: Merge Sort
+
+How do you know?: Lowest time complexity on a random list
+
+sort3 uses: Selection sort
+
+How do you know?: Lowest time complexity on reversed list
